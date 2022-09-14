@@ -56,7 +56,6 @@ webSocket(server, app);
 
 
 
-구글소셜/https/닉네임/포인트
 
 <br>
 
